@@ -1,6 +1,8 @@
 # Codeforces-Hacking-Script
 Kindly install beautiful soup before running the python script
 
+*Python + CPP + Bash
+
 
 ## The script uses web scraping of solution codes and then testing them on your local machine on your testcases.
 
